@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **python, android**
 
-- 💬 Ask me about **web& app developer**
+- 💬 Ask me about **web & app developer**
 
 - 📫 How to reach me **ateesh2002@gmail.com**
 
