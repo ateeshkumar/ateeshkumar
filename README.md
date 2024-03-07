@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/thisisateesh" target="blank"><img src="https://img.shields.io/twitter/follow/thisisateesh?logo=twitter&style=for-the-badge" alt="This is Ateesh" /></a> </p>
 
-- 🔭 I’m currently working on **Social media project**
+- 🔭 I’m currently working on **LMS PROJECT**
 
-- 🌱 I’m currently learning **python, android**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **web & app developer**
 
