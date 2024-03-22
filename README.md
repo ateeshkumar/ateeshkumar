@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thisisateesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ateeshk83372382" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ateesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ateesh kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ateesh-kumar-2b4a721b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ateesh kumar" height="30" width="40" /></a>
 <a href="https://fb.com/ateesh kumar maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ateesh kumar maurya" height="30" width="40" /></a>
 <a href="https://instagram.com/aateeshmaurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ateesh_maurya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bcs_3779" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bcs_3779" height="30" width="40" /></a>
