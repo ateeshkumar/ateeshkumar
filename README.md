@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Ateesh kumar</h1>
-<h3 align="center">MERN Stack Developer and Software Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <img align="right" alt = "coding" width = "1000" height="200" src = "https://news.mit.edu/sites/default/files/styles/news_article__image_gallery/public/images/202012/MIT-Coding-Brain-01-press_0.jpg?itok=JKoUflf8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ateeshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="ateeshkumar" /> </p>
