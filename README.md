@@ -36,7 +36,7 @@ While I’m comfortable across the stack, my strongest impact comes from **backe
 ---
 
 ### 📈 GitHub Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ateeshkumar&show_icons=true&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ateeshkumar&show_icons=true&include_all_commits=true)
 
 ---
 
